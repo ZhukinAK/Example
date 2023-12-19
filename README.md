@@ -1,1 +1,1 @@
-# Exapmple
+# Example
